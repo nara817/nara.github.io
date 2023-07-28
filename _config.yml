@@ -44,6 +44,11 @@ social:
     url: https://www.instagram.com/na_aaaaaara/
   - title: github
     url: https://github.com/nara817
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 
+  - line: vvipnanas@gmail.com
     
 # Build settings
 markdown: kramdown
